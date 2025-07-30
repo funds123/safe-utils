@@ -5,7 +5,7 @@ This repository contains both a Bash script and a web interface for calculating 
 The project is a fork of [@pcaversaccio](https://x.com/pcaversaccio) bash script, full details of such bash script README can be found at [its original reository](https://github.com/pcaversaccio/safe-tx-hashes-util/blob/main/README.md).
 
 The UI also offers a second method to manually input transaction details instead of recovering them from Safe's API.
-
+{"version":"1.0","chainId":"1","createdAt":1753360022013,"meta":{"name":"Transaction builder","description":"","txBuilderVersion":"1.18.0","createdFromSafeAddress":"0x0a9DE008be40436F3dc1078aaeC9b4786094f079","createdFromOwnerAddress":"","checksum":"0x137dddf5e5428657a09630e227272e5ae4a85ba5a8db3561aa1f5c8060a0b64b"},"transactions":[{"to":"0xfF501B324DC6d78dC9F983f140B9211c3EdB4dc7","value":"0","data":null,"contractMethod":{"inputs":[],"name":"fallback","payable":true},"contractInputsValues":proxy}]}
 ## Disclaimer
 
 This is a fork of a script by [@pcaversaccio](https://github.com/pcaversaccio/safe-tx-hashes-util) that adds a user interface. It has not been subject to any security assessment and is therefore not suitable for production use. Any use of the tool is at your own risk in accordance with our [Terms of Service](https://www.openzeppelin.com/tos).
